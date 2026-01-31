@@ -1,2 +1,1 @@
-# DevOps-Eval
-Pierre feuille ciseau lézard spock
+Le projet utilise dotnet version 9.
